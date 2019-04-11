@@ -9,5 +9,3 @@ class ProductSerializer
         serialized_product += '}'
     end
   end
-
-
