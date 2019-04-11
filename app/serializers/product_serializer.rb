@@ -10,4 +10,4 @@ class ProductSerializer
     end
   end
 
-end
+
